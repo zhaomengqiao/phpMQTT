@@ -1,6 +1,6 @@
 <?php
 
-namespace Bluerhinos;
+namespace Zhaomengqiao;
 
 /*
  	phpMQTT
